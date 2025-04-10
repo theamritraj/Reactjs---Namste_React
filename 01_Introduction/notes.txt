@@ -1,2 +1,12 @@
 What is CDN ?
 What is CrossOrigin ?
+
+
+what is Emmet ?
+Difference between a library and framework ?
+What is CDN ? How do use it ?
+why react known as React ?
+what is Cross-origin in script tag ?
+what is difference between React and ReactDom ? 
+what is difference between React.development.js and production.js file via CDN ? 
+what is difference between async and defer ? 
