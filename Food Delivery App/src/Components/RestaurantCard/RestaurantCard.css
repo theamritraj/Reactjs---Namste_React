@@ -1,0 +1,14 @@
+.card{
+  width: 220px;
+  height: 330px;
+  border: 1px solid black;
+  margin-left: 30px;
+  
+}
+.card-header img{
+  height: 170px;
+  width: 170px;
+  padding: 10px;
+  
+  
+}

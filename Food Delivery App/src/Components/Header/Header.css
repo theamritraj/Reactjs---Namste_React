@@ -1,0 +1,23 @@
+.Nav {
+  background-color: black;
+  color: #fff;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.nav-logo img{
+  width: 100px;
+}
+
+.nav-items ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  margin-top:   40px;
+  
+}
+
+.nav-items li {
+  cursor: pointer;
+}
