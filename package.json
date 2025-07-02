@@ -1,0 +1,25 @@
+{
+  "name": "reactjs---namste_react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/theamritraj/Reactjs---Namste_React#readme",
+  "bugs": {
+    "url": "https://github.com/theamritraj/Reactjs---Namste_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theamritraj/Reactjs---Namste_React.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.3"
+  }
+}
